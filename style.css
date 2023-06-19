@@ -263,3 +263,13 @@ body {
     padding-top: 20px;
     flex-wrap: wrap;
 }
+
+#banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("img/banner/nature.jpg");
+    
+}
